@@ -11,31 +11,31 @@
 - [Visual Studio Code] - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 ## Features and Functionality
-##### Fetches and Displays Product List: 
+#### Fetches and Displays Product List: 
 The application retrieves product data from an API, displaying details like images, brands, and model names.
 
-##### Cart Functionality: 
+#### Cart Functionality: 
 Users can add one or multiple products they like to a shopping cart, with options to add and remove items as needed.
 
-##### Pagination:
+#### Pagination:
 Includes pagination for efficient navigation through the product list.
 
-##### Product Search:
+#### Product Search:
 Features a search input for finding specific products.
 
-##### Autocomplete Filtering: 
+#### Autocomplete Filtering: 
 Offers an autocomplete function that filters products from the API.
 
-##### Sorting Options: 
+#### Sorting Options: 
 Allows users to sort products by date and price.
 
-##### Local Storage of Cart Items:
+#### Local Storage of Cart Items:
 Saves products in the cart to local storage, preserving the cart contents even if the page is closed.
 
-##### Redux Toolkit for State Management: 
+#### Redux Toolkit for State Management: 
 Utilizes Redux Toolkit for managing the state of adding and deleting items in the cart.
 
-##### Unit Testing: 
+#### Unit Testing: 
 Includes comprehensive unit tests for critical features, such as the cart's add and delete functionalities, to ensure the application's reliability and performance.
 
 
